@@ -1,0 +1,12 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: flex-start;
+}
